@@ -1,0 +1,8 @@
+Requirement:
+Account - accountId, accountHolderName, balance, withdraw(), deposit(), required getters and setters
+
+SavingsAccount - interestRate, getInterestPerAnnum()
+
+RecurringAccount - interestRate, getInterestPerAnnum()
+
+All variables must be private and must only have a default constructor, use getters and setters to get and set the value
